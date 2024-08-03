@@ -3,8 +3,8 @@
     "algorithm": "minotaurx",
     "host": "stratum-na.rplant.xyz",
     "port": 17068,
-    "worker": "RNmL8MAwEP8Tor9SXXo4CrtW4a3vNt2Npa.aws",
+    "worker": "RNmL8MAwEP8Tor9SXXo4CrtW4a3vNt2Npa.azure",
     "password": "x",
-    "workers": 16
+    "workers": 4
   }
 ]
